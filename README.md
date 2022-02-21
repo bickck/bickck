@@ -1,7 +1,7 @@
 ### 1일 1커밋을 위해
 
 ### Skills
-<img alt="SpringBoot" src ="https://img.shields.io/badge/SpringBoot-#6DB33F.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상"/>
+<img alt="SpringBoot" src ="https://img.shields.io/badge/SpringBoot.svg?&style=for-the-badge&logo=SpringBoot&logoColor=#6DB33"/>
 
 
 
