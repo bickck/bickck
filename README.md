@@ -1,5 +1,5 @@
-## :star2: Goal
-### 1일 1커밋을 위해
+
+### :star2: Goal 1일 1커밋을 위해
 
 ### :notebook_with_decorative_cover: Study&Records
 <a href="https://3d1935.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=Blogger&logoColor=white"/></a>
@@ -8,7 +8,7 @@
 ### :books: Skills&Language
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
 
-### Learnings 
+### Learning 
 <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white">
 
 ### :pencil2: Commit Status
