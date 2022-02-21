@@ -1,7 +1,7 @@
 ## :star2: Goal
 ### 1일 1커밋을 위해
 
-### Me
+### Study&Records
 <a href="https://3d1935.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=Blogger&logoColor=white"/></a>
 <a href = "https://github.com/bickck/"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 
