@@ -32,7 +32,7 @@
 
 ### 📖 I used Libraries & api
 <br>
-### Java Persistence Api
+### Java Persistence API
 
 ### :pencil2: Commit Status
 ##
